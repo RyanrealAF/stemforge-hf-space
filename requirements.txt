@@ -1,0 +1,8 @@
+gradio>=5.0,<7
+demucs>=4.0.1
+basic-pitch>=0.4.0
+torch
+torchaudio
+numpy<2
+soundfile
+librosa
