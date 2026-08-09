@@ -664,3 +664,4 @@ with gr.Blocks(title="StemForge") as demo:
 
 if __name__ == "__main__":
     demo.queue(max_size=4).launch()
+raise gr.Error("Error message here")
